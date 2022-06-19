@@ -1,0 +1,22 @@
+
+#过滤数据库文件、sln解决方案文件、配置文件  
+*.mdb
+*.ldb
+*.config
+
+# unity files #  
+######################
+*.csproj
+*.sln
+
+/Library
+/Logs
+/Build
+/Temp
+/Build-Release
+/obj
+/UserSettings
+
+/.vs
+/.vscode
+/.vsconfig
